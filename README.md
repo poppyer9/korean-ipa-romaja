@@ -1,4 +1,4 @@
--*- mode: orgtbl -*-
+-*- mode: org -*-
 
 This is an IPA enhanced romanization korean input method, notably:
 
@@ -42,7 +42,7 @@ This is an IPA enhanced romanization korean input method, notably:
 - ^1 If |hangul-ipa-romaja-enable-compatible-double-chars| is set to |t|
 
 Example:
-- 서울 = svul OR sOul  
+- 서울 = svul OR sOul
 - 한국어 = han gug xo
 - 안녕하세요 = an nyvx ha se yo
             OR an nyOx ha se yo     
