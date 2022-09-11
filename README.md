@@ -43,7 +43,7 @@ This is an IPA enhanced korean romanization input method for Emacs, notably:
 
 Example:
 - 서울 = svul OR sOul
-- 한국어 = han gug xo
+- 한국어 = han gug xv
 - 안녕하세요 = an nyvx ha se yo
-            OR an nyOx ha se yo     
+            OR an nyOx ha se yo
 - 감사합니다 = gam sa hab ni da
